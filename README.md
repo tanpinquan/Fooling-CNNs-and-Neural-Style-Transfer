@@ -5,5 +5,5 @@
 
 2. Perform Neural Style Transfer
 
-![Screenshot](style transfer.PNG)
+![Screenshot](style_transfer.PNG)
 ![Screenshot](fooling.PNG)
